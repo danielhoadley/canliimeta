@@ -2,7 +2,7 @@ import requests
 
 url = "http://api.canlii.org/v1/caseBrowse/en/csc-scc/"
 
-querystring = {"offset":"0","resultCount":"2000","decisionAfter":"2000-01-01","api_key":"6gauat4nerh7ysgvv2t77nu4"}
+querystring = {"offset":"0","resultCount":"2000","decisionAfter":"2000-01-01","api_key":"#########"}
 
 headers = {
     'cache-control': "no-cache",

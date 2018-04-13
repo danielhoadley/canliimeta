@@ -8,7 +8,7 @@ output_file = open('scc-2000-metadata.json', 'a')
 for id in df['caseId/en']:
     url = 'http://api.canlii.org/v1/caseBrowse/en/csc-scc/' + id
 
-    querystring = {"api_key": "6gauat4nerh7ysgvv2t77nu4"}
+    querystring = {"api_key": "#######"}
 
     headers = {
         'cache-control': "no-cache",

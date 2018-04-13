@@ -2,7 +2,7 @@ import requests
 
 url = "http://api.canlii.org/v1/caseBrowse/en/"
 
-querystring = {"api_key":"6gauat4nerh7ysgvv2t77nu4"}
+querystring = {"api_key":"#########"}
 
 headers = {
     'cache-control': "no-cache",
